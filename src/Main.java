@@ -14,7 +14,7 @@ public class Main {
         String fullName1 = fullName.toUpperCase();
         System.out.println("Данные Ф. И. О. сотрудника для заполнения отчета — " + fullName1);
         System.out.println();
-        System.out.println("Task3");
+        System.out.println("Task3 ");
         String firstName2 = "Иванов";
         String middleName2 = "Семён";
         String lastName2 = "Семёнович";
